@@ -42,13 +42,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 # Data Retention Policy, Managing Your Information
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete User Provided Data that you have provided via the Application, please contact us at rene@iowadev.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete User Provided Data that you have provided via the Application, please contact us at support@delightfulnow.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
-You may contact us at rene@iowadev.com at any time and ask for a copy of your User Provided data. We thank you for trusting us with your data and want to give you the option to view your data at any time.
+You may contact us at support@delightfulnow.com at any time and ask for a copy of your User Provided data. We thank you for trusting us with your data and want to give you the option to view your data at any time.
 
 # Children
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at rene@iowadev.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at support@delightfulnow.com. We will delete such information from our files within a reasonable time.
 
 # Security
 
@@ -64,4 +64,4 @@ By using the Application, you are consenting to our processing of your informati
 
 # Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at rene@iowadev.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at support@delightfulnow.com.
